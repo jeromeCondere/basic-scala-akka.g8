@@ -1,6 +1,6 @@
 import org.scalatest._
 
-class AssertTest extends FlatSpec {
+class MainSpec extends FlatSpec {
 "A true" should "be true" in {
 val t =true;
 val f= false;
