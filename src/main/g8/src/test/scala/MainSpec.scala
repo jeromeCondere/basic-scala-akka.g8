@@ -1,4 +1,3 @@
-package test
 import org.scalatest._
 
 class AssertTest extends FlatSpec {
